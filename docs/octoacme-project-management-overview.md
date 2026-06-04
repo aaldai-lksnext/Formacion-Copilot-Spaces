@@ -20,6 +20,15 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Supporting Roles
+See [OctoAcme Personas](./octoacme-roles-and-personas.md) for detailed descriptions of supporting roles including:
+- **Scrum Master**: facilitates agile ceremonies and removes blockers
+- **UX Designer**: drives user research and design
+- **Customer Success Manager**: bridges team and customer needs
+- **Technical Writer**: owns documentation and knowledge transfer
+
+These roles enhance project outcomes by providing specialized expertise and ensuring cross-functional collaboration.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
@@ -44,3 +53,4 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- Reference [OctoAcme Personas](./octoacme-roles-and-personas.md) to identify which roles should be involved in each project phase.
